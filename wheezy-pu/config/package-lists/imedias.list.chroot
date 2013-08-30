@@ -1,7 +1,8 @@
 ##chewing-word
 dlcopy
 easystroke
-lernstick-geogebra-wheezy-pu
+#igi-lernstick-geogebra-wheezy-pu
+#igi-lernstick-geogebra-wheezy
 ##lernstick-gretl
 lernstick-htop
 lernstick-iceweasel-squeeze-pu
@@ -21,7 +22,7 @@ lernstick-kvkbd
 #lernstick-libreoffice-draw-wheezy
 #lernstick-libreoffice-impress-wheezy
 #lernstick-libreoffice-writer-wheezy
-###lernstick-live-config-wheezy
+####lernstick-live-config-wheezy
 lernstick-lshw-gtk
 lernstick-mc
 lernstick-menu
