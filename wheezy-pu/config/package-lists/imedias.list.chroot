@@ -26,8 +26,8 @@ lernstick-kvkbd
 lernstick-lshw-gtk
 lernstick-mc
 lernstick-menu
-lernstick-menu-xdg-wheezy
-lernstick-mount-exchange-wheezy
+#####lernstick-menu-xdg-wheezy
+#####lernstick-mount-exchange-wheezy
 ##lernstick-musescore
 lernstick-nepomuk-core-data
 lernstick-okular
