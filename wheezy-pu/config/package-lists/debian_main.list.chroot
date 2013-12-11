@@ -124,7 +124,7 @@ libqt4-opengl
 #libreoffice-help-ru
 #libreoffice-impress
 #libreoffice-kde
-#libreoffice-l10n-de
+libreoffice-l10n-de
 #libreoffice-l10n-es
 #libreoffice-l10n-fr
 #libreoffice-l10n-it
@@ -141,7 +141,7 @@ libqt4-opengl
 #libreoffice-style-hicontrast
 #libreoffice-style-oxygen
 #libreoffice-style-tango
-#libreoffice-writer
+libreoffice-writer
 libsmbios-bin
 linux-headers-3.10-0.bpo.3-486
 linux-headers-3.10-0.bpo.3-686-pae

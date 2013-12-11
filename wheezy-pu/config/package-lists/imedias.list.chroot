@@ -21,7 +21,7 @@ lernstick-kvkbd
 #lernstick-libreoffice-calc-wheezy
 #lernstick-libreoffice-draw-wheezy
 #lernstick-libreoffice-impress-wheezy
-#lernstick-libreoffice-writer-wheezy
+lernstick-libreoffice-writer-wheezy
 ####lernstick-live-config-wheezy
 lernstick-lshw-gtk
 lernstick-mc
