@@ -143,8 +143,8 @@ libreoffice-l10n-de
 #libreoffice-style-tango
 libreoffice-writer
 libsmbios-bin
-linux-headers-3.10-0.bpo.3-486
-linux-headers-3.10-0.bpo.3-686-pae
+linux-headers-3.12-0.bpo.1-486
+linux-headers-3.12-0.bpo.1-686-pae
 #live-tools
 lshw-gtk
 lsof
